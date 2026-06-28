@@ -14,7 +14,7 @@ This is a Machine Learning project that predicts a student's exam score based on
 - Pandas
 - Scikit-learn
 
-## ▶️Run the Project
+## Run the Project
 
 streamlit run stream.py
 
