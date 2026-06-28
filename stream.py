@@ -10,7 +10,7 @@ with open("exam_scores.pkl", "rb") as f:
 
 st.set_page_config(page_title="Exam Score Prediction")
 
-st.title("📚 Exam Score Prediction")
+st.title("Exam Score Prediction")
 
 studyhr = st.number_input("Study Hours Per Day", value=4.05)
 attendance = st.number_input("Attendance Percentage", value=85.36)
