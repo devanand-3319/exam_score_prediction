@@ -1,0 +1,22 @@
+
+.stApp {
+    background-color: #dde1ec;
+}
+
+label, p, h1, h2, h3 {
+    color: #100303;
+}
+
+
+.stNumberInput input {
+    background-color: #ecebf3;
+    color: #0f0303;
+    border: 2px solid #bfc5d2;
+    border-radius: 8px;
+}
+
+.stButton > button {
+    background-color: #2563eb;
+    color: white;
+    border-radius: 10px;
+}
